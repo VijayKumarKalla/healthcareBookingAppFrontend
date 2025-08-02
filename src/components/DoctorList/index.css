@@ -1,0 +1,67 @@
+.doctor-list-container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+
+
+.search-app-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.search-bar {
+  padding: 10px;
+  font-size: 16px;
+  flex: 1;
+  min-width: 200px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+
+.myappBtn {
+  padding: 10px 16px;
+  background-color: #1976d2;
+  color: white;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 4px;
+  white-space: nowrap;
+}
+
+.doctor-grid {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+  .search-bar {
+    font-size: 14px;
+  }
+
+  .doctor-grid {
+    gap: 15px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .search-bar {
+    padding: 8px;
+    font-size: 14px;
+  }
+
+  .doctor-grid {
+    flex-direction: column;
+    align-items: center;
+  }
+}

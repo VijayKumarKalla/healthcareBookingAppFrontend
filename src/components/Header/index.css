@@ -1,0 +1,25 @@
+.header {
+  background-color: #19d285;
+  padding: 16px;
+  color: #fff;
+  text-align: center;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo-link {
+  text-decoration: none;
+  color: white;
+  font-size: 24px;
+}
+
+@media screen and (max-width: 768px) {
+  .header {
+    padding: 12px;
+  }
+
+  .logo-link {
+    font-size: 20px;
+  }
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Syed Ayesha",
+    "specialization": "Cardiologist",
+    "imageUrl": "https://img.freepik.com/premium-vector/avatar-profile-icon-flat-style-female-user-profile-vector-illustration-isolated-background-women-profile-sign-business-concept_157943-38866.jpg?w=360",
+    "available": true
+  },
+  {
+    "id": "2",
+    "name": "Dr. Rohit Sharma",
+    "specialization": "Dermatologist",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgZ08_aj5Qy38smaPA6LSWEczIcNxtHcjd2I0aBb4cnI6XcUPnfIOF51NmmF9YminWy3E&usqp=CAU",
+    "available": false
+  },
+  {
+    "id": "3",
+    "name": "Dr. Meera Singh",
+    "specialization": "Pediatrician",
+    "imageUrl": "https://img.freepik.com/premium-vector/avatar-profile-icon-flat-style-female-user-profile-vector-illustration-isolated-background-women-profile-sign-business-concept_157943-38866.jpg?w=360",
+    "available": true
+  },
+  {
+    "id": "4",
+    "name": "Dr. Neha Kapoor",
+    "specialization": "Gynecologist",
+    "imageUrl": "https://img.freepik.com/premium-vector/avatar-profile-icon-flat-style-female-user-profile-vector-illustration-isolated-background-women-profile-sign-business-concept_157943-38866.jpg?w=360",
+    "available": true
+  },
+  {
+    "id": "5",
+    "name": "Dr. Arjun Verma",
+    "specialization": "Orthopedic",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgZ08_aj5Qy38smaPA6LSWEczIcNxtHcjd2I0aBb4cnI6XcUPnfIOF51NmmF9YminWy3E&usqp=CAU",
+    "available": true
+  },
+  {
+    "id": "6",
+    "name": "Dr. Priya Reddy",
+    "specialization": "Oncologist",
+    "imageUrl": "https://img.freepik.com/premium-vector/avatar-profile-icon-flat-style-female-user-profile-vector-illustration-isolated-background-women-profile-sign-business-concept_157943-38866.jpg?w=360",
+    "available": false
+  },
+  {
+    "id": "7",
+    "name": "Dr. Karan Malhotra",
+    "specialization": "Neurologist",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgZ08_aj5Qy38smaPA6LSWEczIcNxtHcjd2I0aBb4cnI6XcUPnfIOF51NmmF9YminWy3E&usqp=CAU",
+    "available": true
+  },
+  {
+    "id": "8",
+    "name": "Dr. Swati Das",
+    "specialization": "Psychiatrist",
+    "imageUrl": "https://img.freepik.com/premium-vector/avatar-profile-icon-flat-style-female-user-profile-vector-illustration-isolated-background-women-profile-sign-business-concept_157943-38866.jpg?w=360",
+    "available": false
+  },
+  {
+    "id": "9",
+    "name": "Dr. Rahul Jain",
+    "specialization": "ENT Specialist",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgZ08_aj5Qy38smaPA6LSWEczIcNxtHcjd2I0aBb4cnI6XcUPnfIOF51NmmF9YminWy3E&usqp=CAU",
+    "available": true
+  },
+  {
+    "id": "10",
+    "name": "Dr. Anjali Bhatt",
+    "specialization": "Endocrinologist",
+    "imageUrl": "https://img.freepik.com/premium-vector/avatar-profile-icon-flat-style-female-user-profile-vector-illustration-isolated-background-women-profile-sign-business-concept_157943-38866.jpg?w=360",
+    "available": true
+  },
+  {
+    "id": "11",
+    "name": "Dr. Vikram Rao",
+    "specialization": "Nephrologist",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgZ08_aj5Qy38smaPA6LSWEczIcNxtHcjd2I0aBb4cnI6XcUPnfIOF51NmmF9YminWy3E&usqp=CAU",
+    "available": false
+  },
+  {
+    "id": "12",
+    "name": "Dr. Shruti Kulkarni",
+    "specialization": "Gastroenterologist",
+    "imageUrl": "https://img.freepik.com/premium-vector/avatar-profile-icon-flat-style-female-user-profile-vector-illustration-isolated-background-women-profile-sign-business-concept_157943-38866.jpg?w=360",
+    "available": true
+  }
+]
