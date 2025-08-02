@@ -79,15 +79,15 @@ healthcare-app/
 ##  Screenshots
 
 |
-| ![Home](https://drive.google.com/file/d/13lRzugVn8yqNZnMbO0350DBvqV0ffI1C/view?usp=sharing)
+| ![Home] https://drive.google.com/file/d/13lRzugVn8yqNZnMbO0350DBvqV0ffI1C/view?usp=sharing
 
-| ![Profile](https://drive.google.com/file/d/1cKNOJ-mSZapcXZfTvz0IBPlLK6ZD6HmZ/view?usp=drive_link) 
+| ![Profile] https://drive.google.com/file/d/1cKNOJ-mSZapcXZfTvz0IBPlLK6ZD6HmZ/view?usp=drive_link
 
-| ![Appointments](https://drive.google.com/file/d/1F4Vl5ioxBv6F0ooHVCmKeFtFH80oPVUf/view?usp=drive_link) |
+| ![Appointments] https://drive.google.com/file/d/1F4Vl5ioxBv6F0ooHVCmKeFtFH80oPVUf/view?usp=drive_link 
 
-| ![Confirmation](https://drive.google.com/file/d/1nw8W9Jz4jg18IJQZrfj5Ya-U9wR6Y4XE/view?usp=drive_link) |
+| ![Confirmation] https://drive.google.com/file/d/1nw8W9Jz4jg18IJQZrfj5Ya-U9wR6Y4XE/view?usp=drive_link 
 
-| ![videoLink](https://drive.google.com/file/d/1Rs6NfpnrlGQh-XSSC3dE0wwLL0n9hR2H/view?usp=drive_link)|
+| ![videoLink] https://drive.google.com/file/d/1Rs6NfpnrlGQh-XSSC3dE0wwLL0n9hR2H/view?usp=drive_link
 ---
 
 ## Installation & Setup
