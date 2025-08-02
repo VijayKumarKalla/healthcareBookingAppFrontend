@@ -87,12 +87,13 @@ healthcare-app/
 
 | ![Confirmation](https://drive.google.com/file/d/1nw8W9Jz4jg18IJQZrfj5Ya-U9wR6Y4XE/view?usp=drive_link) |
 
+| ![videoLink](https://drive.google.com/file/d/1Rs6NfpnrlGQh-XSSC3dE0wwLL0n9hR2H/view?usp=drive_link)|
 ---
 
-## 🔧 Installation & Setup
+## Installation & Setup
 
 1. Clone the repo
    bash
-   git clone https://github.com/your-username/healthcare-app.git
+   git clone https://github.com/VijayKumarKalla/healthcareBookingAppFrontend.git
    cd healthcare-app
 
